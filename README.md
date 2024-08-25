@@ -1,6 +1,6 @@
 # TodoList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
+A To-Do Task List App built using Angular allows users to efficiently manage their daily tasks. This app provides a clean and intuitive interface where users can add, edit, and delete tasks. It supports task prioritization and categorization, enabling users to organize their tasks effectively. The app may include features like due dates, task reminders, and status updates (e.g., completed or pending). With Angular's powerful two-way data binding and modular architecture, the app ensures a responsive user experience and smooth performance, making it an ideal tool for personal productivity.
 
 ## Development server
 
